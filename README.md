@@ -39,6 +39,48 @@
 
 ---
 
+---
+### 🏥 Featured Project: HealthVcan康复信息平台 | *2022.07 - 2025.08* 
+
+**Project Context**
+
+该系统是公司核心产品，应用于医院、高校及科研场景。系统依托 **ICF功能地形图**（曾荣登核心期刊封面），实现了康复评估、治疗、质控的一体化管理。
+
+> 💼 **职场人设**：资深 `.NET Framework 4.5` 调参师，HIS 对接熟练工。
+
+> 🍜 **真实想法**：框架底层原理？不懂，也不想懂。我只要保证我写的页面能跑、接口能通，下班能准时煮上一碗面，这就是我的最高职业素养。
+
+> 🔗 **想看公司官方介绍？戳这儿👉 [海司唯尔官网·关于我们](http://www.healthvcan.cn/about_us)** 
+
+
+**My Role & Tech Stack**
+- **Framework**: `.NET Framework 4.5`, `ASP.NET MVC`
+- **Data Layer**: `SQLServer`
+- **Deployment**: `IIS` 服务部署与维护
+
+**Key Contributions**
+- **系统功能开发**：小卡拉米一枚，主业煮面，副业给页面/后端“加料”。——我管把功能写顺、把Bug炖没，至于锅（框架）为啥不粘？那是玄学，懂了也不告诉你😏
+- **HIS/EMR 深度对接**：主导 WebService 接口开发，实现患者主索引与诊疗数据的实时同步，支撑医院临床业务闭环。
+- **系统运维**：负责生产环境 `IIS` 部署与监控，保障系统在区域三级康复网络中的稳定运行，支撑日均高频次的数据交互。
+- **多场景适配**：参与开发适用于医院、教学科研等不同场景的功能模块，满足多样化康复业务需求。
+
+---
+
+### 🛠️ Tech Stack
+![.NET Framework 4.5](https://img.shields.io/badge/.NET%20Framework%204.5-512BD4?logo=.net&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-9400D3?logo=asp.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D4?logo=microsoft-iis&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<!-- 保留你原来的 Vue/TS/.NET 8 等徽章 -->
+![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue%203-42b883?logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
+![SqlSugar](https://img.shields.io/badge/SqlSugar-FF6600?logo=.net&logoColor=white)
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wxy-sunny&show_icons=true&theme=tokyonight&count_private=true" />
